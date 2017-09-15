@@ -4,8 +4,10 @@ Due to the project being created on Protools. The indivdual files were to big to
 But please use the following resources to check the library
 
 
-##The Final Foley Sound Library
+## The Final Foley Sound Library
+
 https://drive.google.com/open?id=0B4Ov7MswNppGS3RDeUJvQXpONnM
 
-##The Youtube Video Tutorial 
+## The Youtube Video Tutorial 
+
 https://youtu.be/DWRROwrjzZU
